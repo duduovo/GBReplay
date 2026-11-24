@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use GBReplay, please cite the paper and this software."
+title: "GBReplay: An Efficient Graph Continual Learning with Compact Granular-ball Replay for Node Classification"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Qun
+  - family-names: Li
+    given-names: Hao
+  - family-names: Liu
+    given-names: Maotao
+  - family-names: He
+    given-names: Jing
+  - family-names: Xie
+    given-names: Jiang
+repository-code: "https://github.com/duduovo/GBReplay"
+license: MIT
